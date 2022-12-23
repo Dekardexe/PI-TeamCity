@@ -5,7 +5,7 @@ namespace teamcity
 {
     class Program
     {
-        sta void Main(string[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
             tripleFactorial(5);
