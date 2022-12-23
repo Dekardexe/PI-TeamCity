@@ -1,0 +1,28 @@
+C:\Users\Дэнчик\source\repos\teamcity\bin\Debug\netcoreapp3.1\teamcity.exe
+C:\Users\Дэнчик\source\repos\teamcity\bin\Debug\netcoreapp3.1\teamcity.deps.json
+C:\Users\Дэнчик\source\repos\teamcity\bin\Debug\netcoreapp3.1\teamcity.runtimeconfig.json
+C:\Users\Дэнчик\source\repos\teamcity\bin\Debug\netcoreapp3.1\teamcity.runtimeconfig.dev.json
+C:\Users\Дэнчик\source\repos\teamcity\bin\Debug\netcoreapp3.1\teamcity.dll
+C:\Users\Дэнчик\source\repos\teamcity\bin\Debug\netcoreapp3.1\teamcity.pdb
+C:\Users\Дэнчик\source\repos\teamcity\obj\Debug\netcoreapp3.1\teamcity.csproj.AssemblyReference.cache
+C:\Users\Дэнчик\source\repos\teamcity\obj\Debug\netcoreapp3.1\teamcity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дэнчик\source\repos\teamcity\obj\Debug\netcoreapp3.1\teamcity.AssemblyInfoInputs.cache
+C:\Users\Дэнчик\source\repos\teamcity\obj\Debug\netcoreapp3.1\teamcity.AssemblyInfo.cs
+C:\Users\Дэнчик\source\repos\teamcity\obj\Debug\netcoreapp3.1\teamcity.csproj.CoreCompileInputs.cache
+C:\Users\Дэнчик\source\repos\teamcity\obj\Debug\netcoreapp3.1\teamcity.dll
+C:\Users\Дэнчик\source\repos\teamcity\obj\Debug\netcoreapp3.1\teamcity.pdb
+C:\Users\Дэнчик\source\repos\teamcity\obj\Debug\netcoreapp3.1\teamcity.genruntimeconfig.cache
+C:\Users\Дэнчик\source\repos\Poprobuem tak\teamcity\bin\Debug\netcoreapp3.1\teamcity.exe
+C:\Users\Дэнчик\source\repos\Poprobuem tak\teamcity\bin\Debug\netcoreapp3.1\teamcity.deps.json
+C:\Users\Дэнчик\source\repos\Poprobuem tak\teamcity\bin\Debug\netcoreapp3.1\teamcity.runtimeconfig.json
+C:\Users\Дэнчик\source\repos\Poprobuem tak\teamcity\bin\Debug\netcoreapp3.1\teamcity.runtimeconfig.dev.json
+C:\Users\Дэнчик\source\repos\Poprobuem tak\teamcity\bin\Debug\netcoreapp3.1\teamcity.dll
+C:\Users\Дэнчик\source\repos\Poprobuem tak\teamcity\bin\Debug\netcoreapp3.1\teamcity.pdb
+C:\Users\Дэнчик\source\repos\Poprobuem tak\teamcity\obj\Debug\netcoreapp3.1\teamcity.csproj.AssemblyReference.cache
+C:\Users\Дэнчик\source\repos\Poprobuem tak\teamcity\obj\Debug\netcoreapp3.1\teamcity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дэнчик\source\repos\Poprobuem tak\teamcity\obj\Debug\netcoreapp3.1\teamcity.AssemblyInfoInputs.cache
+C:\Users\Дэнчик\source\repos\Poprobuem tak\teamcity\obj\Debug\netcoreapp3.1\teamcity.AssemblyInfo.cs
+C:\Users\Дэнчик\source\repos\Poprobuem tak\teamcity\obj\Debug\netcoreapp3.1\teamcity.csproj.CoreCompileInputs.cache
+C:\Users\Дэнчик\source\repos\Poprobuem tak\teamcity\obj\Debug\netcoreapp3.1\teamcity.dll
+C:\Users\Дэнчик\source\repos\Poprobuem tak\teamcity\obj\Debug\netcoreapp3.1\teamcity.pdb
+C:\Users\Дэнчик\source\repos\Poprobuem tak\teamcity\obj\Debug\netcoreapp3.1\teamcity.genruntimeconfig.cache
